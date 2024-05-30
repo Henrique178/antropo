@@ -2,36 +2,7 @@
 <html lang="pt-br">
 
 
-<style>
 
-body {
-    background-color: rgb(65, 241, 11);
-}
-
-h1 { font-family: 'Times New Roman', Times, serif;
-    font-size: 54px;
-    font-style: italic;
-    text-align: center;
-    background-color: blue;
-    
-    
-    
-    margin: 50px; 
-    padding-top: 20px;
-    padding-right: 100px;
-    padding-bottom: 20px;
-    padding-left: 100px;
-
-    
-    
-
-}
-
-ul {
-    font-size: 20px;
-}
-
-</style>
 
  <h1>Redes Sociais</h1>
 
