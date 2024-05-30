@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<head>
-    <title>Links da Cassiana</title>
-    <meta charset="utf-8">
-    <meta name="description" content="descrição da minha página">
-    <meta name="author" content="Henrique Pedroso">
-    <meta name="keywords" contens="html, css, javascript">
-
- </head>
-
 
 <style>
 
