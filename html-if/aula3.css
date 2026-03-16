@@ -1,0 +1,108 @@
+body {
+    padding: 20px;
+    background-image: url(dia-do-estudante-518870542.jpg);
+    background-repeat: no-repeat;       /* Impede a repetição da imagem */
+    background-position: center center; /* Centraliza a imagem */
+    background-size: contain;           /* Garante que a imagem inteira seja visível */
+    background-attachment: fixed;       /* Opcional: fixa o fundo durante o scroll */
+    min-height: 100vh;                  /* Garante que o fundo ocupe pelo menos a altura total da tela */
+}
+
+.p1 {
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 18px;
+    width: 60%;
+    height: 75%;
+    color: #9ff902;   
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(program4.jfif);
+    background-repeat: no-repeat;       /* Impede a repetição da imagem */
+    background-size: contain; /* Garante que a imagem inteira seja visível */
+    background-attachment: fixed; /* Opcional: fixa o fundo durante o scroll */
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+div {
+    width: 40%;
+    margin: auto;    
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: goldenrod;
+    margin-bottom: 20px;   
+    overflow: auto;
+    display: inline-block;    
+    
+}
+
+div h2 {
+    text-align: center;
+}
+
+.divOne {
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.divOne div {
+    font-size: 17px;
+}
+
+.divOne div:first-child {
+    margin-right: 40px;
+}
+
+.divOne div ul li {
+    list-style-type: none;
+}
+
+.faculdade {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.faculdade h1 {
+    color: brown;
+    text-align: center;
+}
+
+.faculdade p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.faculdade a {
+    text-decoration: none;
+}
+
+.baixo {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.listaDois {
+   text-align: center;
+   margin-top: 50px;
+}
+
+.outrosCursos {
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.outrosCursos li {
+    font-size: 17px;
+    list-style-type: none;
+}
